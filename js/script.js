@@ -4,7 +4,7 @@ document.addEventListener('DOMContentLoaded', () => {
 
     // === Efek Mengetik (Typing Effect) ===
     const typingText = document.getElementById('typing-text');
-    const texts = ["Programmer Junior", "Mahasiswa Sistem Informasi", "Mengikuti Bootcamp di Dicoding dan CodePolitan"];
+    const texts = ["Programmer Junior", "Mahasiswa Sistem Informasi" ];
     let textIndex = 0;
     let charIndex = 0;
     let isDeleting = false;
