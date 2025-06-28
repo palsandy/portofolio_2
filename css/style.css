@@ -33,3 +33,12 @@ body {
     opacity: 1;
     transform: translateY(0);
 }
+
+/* Kelas baru untuk foto profil sebagai background */
+.foto-profil-bg {
+    
+    background-image: url('../images/image-profil.jpg');   
+    background-size: 110%; 
+    background-position: center;
+    background-repeat: no-repeat;
+}
